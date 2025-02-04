@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/dana367/spelling-game-app.git/static/css/main.03f5325b.css",
-    "main.js": "/dana367/spelling-game-app.git/static/js/main.2097a357.js",
-    "index.html": "/dana367/spelling-game-app.git/index.html",
-    "main.03f5325b.css.map": "/dana367/spelling-game-app.git/static/css/main.03f5325b.css.map",
-    "main.2097a357.js.map": "/dana367/spelling-game-app.git/static/js/main.2097a357.js.map"
+    "main.css": "/spelling-game-app/static/css/main.03f5325b.css",
+    "main.js": "/spelling-game-app/static/js/main.2097a357.js",
+    "index.html": "/spelling-game-app/index.html",
+    "main.03f5325b.css.map": "/spelling-game-app/static/css/main.03f5325b.css.map",
+    "main.2097a357.js.map": "/spelling-game-app/static/js/main.2097a357.js.map"
   },
   "entrypoints": [
     "static/css/main.03f5325b.css",
