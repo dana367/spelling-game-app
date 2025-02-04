@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/year3-spelling-game-app/static/css/main.03f5325b.css",
+    "main.js": "/year3-spelling-game-app/static/js/main.2097a357.js",
+    "index.html": "/year3-spelling-game-app/index.html",
+    "main.03f5325b.css.map": "/year3-spelling-game-app/static/css/main.03f5325b.css.map",
+    "main.2097a357.js.map": "/year3-spelling-game-app/static/js/main.2097a357.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03f5325b.css",
+    "static/js/main.2097a357.js"
+  ]
+}
