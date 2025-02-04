@@ -1,0 +1,45 @@
+{
+    "slips": [
+      {
+        "id": 1,
+        "advice": "Rewrite"
+      },
+      {
+        "id": 2,
+        "advice": "Retell"
+      },
+      {
+        "id": 3,
+        "advice": "Repaint"
+      },
+      {
+        "id": 4,
+        "advice": "Reapply"
+      },
+      {
+        "id": 5,
+        "advice": "Redo"
+      },
+      {
+        "id": 6,
+        "advice": "Reinvite"
+      },
+      {
+        "id": 7,
+        "advice": "Eighth"
+      },
+      {
+        "id": 8,
+        "advice": "Enough"
+      },
+      {
+        "id": 9,
+        "advice": "Exercise"
+      },
+      {
+        "id": 10,
+        "advice": "Experience"
+      }
+    ]
+  }
+  
